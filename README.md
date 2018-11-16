@@ -1,0 +1,1 @@
+javascript es6 中的export 和export default的区别以及使用方式
